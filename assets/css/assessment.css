@@ -218,7 +218,7 @@ img {
 
 @media all and (min-width: 575px) {
   .intro {
-    padding-top: 200px; }
+    padding: 50px; }
   h1.intro-text--med {
     font-size: 3.5rem;
     line-height: 50px;
